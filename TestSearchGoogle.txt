@@ -12,6 +12,4 @@ SearchWord
     Wait Until Page Contains Element    id=hplogo    5
     Input Text    id=lst-ib    rice
     Click Button    btnG
-    sleep    3
-    Click Element    xpath=//div[@class='g'][3]/div[@class='rc']/h3[@class='r']/a
     Close Browser
